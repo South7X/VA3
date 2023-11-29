@@ -1,0 +1,12 @@
+diffusers==0.17.0.dev0
+matplotlib
+numpy
+Pillow
+scikit_learn
+scipy
+sentence_transformers==2.2.2
+torch==1.12.1
+torchvision==0.13.1
+tqdm
+transformers==4.28.1
+wandb
