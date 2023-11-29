@@ -7,5 +7,5 @@ python run_anti_naf.py \
   --path_model_1 './ckpts/model-q1' \
   --path_model_2 './ckpts/model-q2' \
   --lr 0.01 \
-  --epoch 2 \
-  --step_per_epoch 10 \
+  --epoch 5 \
+  --step_per_epoch 5000 \
