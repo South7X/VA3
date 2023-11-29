@@ -6,7 +6,7 @@ python sample.py \
   --target_image_path './target_image.jpg' \
   --img_name 'anti-naf' \
   --save_path './sample_results' \
-  --path_model_1 '/disk3/Xiang/stable_diffusion/pokemon_manual_v2/sd-pokemon-model-q1-5000-535' \
-  --path_model_2 '/disk3/Xiang/stable_diffusion/pokemon_manual_v2/sd-pokemon-model-q2-5000' \
+  --path_model_1 './ckpts/model-q1' \
+  --path_model_2 './ckpts/model-q2' \
   --num_images 8 \
   --sample_times 10 \
