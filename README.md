@@ -1,5 +1,6 @@
 # VA3
-Code for "Probabilistic Copyright Protection Can Fail for Text-to-Image Generative Models"
+Official Code for "VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models" (previous name on arxiv: "Probabilistic Copyright Protection Can Fail for Text-to-Image Generative Models")
+CVPR 2024 (Highlight)
 
 ![image](./figs/fig1.png)
 
